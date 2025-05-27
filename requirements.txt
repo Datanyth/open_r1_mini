@@ -1,0 +1,6 @@
+datasets
+trl
+accelerate
+deepspeed
+wandb
+bitsandbytes
